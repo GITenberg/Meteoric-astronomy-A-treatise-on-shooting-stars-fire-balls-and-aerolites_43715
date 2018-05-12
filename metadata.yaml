@@ -1,0 +1,26 @@
+_repo: Meteoric-astronomy-A-treatise-on-shooting-stars-fire-balls-and-aerolites_43715
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43715-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kirkwood, Daniel
+    birthdate: 1814
+    deathdate: 1895
+    gutenberg_agent_id: '41243'
+    url: http://www.gutenberg.org/2009/agents/41243
+description: ''
+gutenberg_issued: '2013-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43715'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Meteors'
+title: 'Meteoric astronomy: A treatise on shooting-stars, fire-balls, and aerolites'
+url: http://www.gutenberg.org/ebooks/43715
